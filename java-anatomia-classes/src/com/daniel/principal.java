@@ -1,4 +1,7 @@
+package com.daniel;
+
 import java.util.Scanner;
+
 
 public class principal {
 
@@ -10,7 +13,7 @@ public class principal {
         String control;
         Scanner t = new Scanner(System.in);
         SmartTV funcao = new SmartTV();
-        int number;
+        int number; 
         
         funcao.setLigada(true);
         while(true) {

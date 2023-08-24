@@ -1,3 +1,4 @@
+package com.daniel;
 public class SmartTV {
     private boolean ligada;
     private int canal;
