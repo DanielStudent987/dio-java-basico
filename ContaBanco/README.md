@@ -1,18 +1,13 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Seja bem vindo. O projeto se trata da resolução de um desafio do módulo de java básico da DIO. 
 
-## Folder Structure
+## About Me
 
-The workspace contains two folders by default, where:
+Olá, me chamo Daniel e sou, atualmente, graduando em Análise e Desenvolvimento de Sistemas. Além disso, sou técnico em informática e possuo experiência em alguns projetos. Estou em busca da primeira oportunidade como desenvolvedor. Estou buscando me aperfeiçoar e melhorar minhas skills para mergulhar nesse universo...
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Contact US
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/daniel-ribeiro-gomes-168283279/)
+[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/daniel_gomes_987/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/DanielStudent987)
