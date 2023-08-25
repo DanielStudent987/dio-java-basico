@@ -1,6 +1,6 @@
 ## Getting Started
 
-Seja bem vindo. O projeto se trata da resolução de um desafio do módulo de java básico da DIO. 
+Seja bem vindo. O projeto se trata da resolução de um desafio do módulo de java básico da DIO.
 
 ## About Me
 
