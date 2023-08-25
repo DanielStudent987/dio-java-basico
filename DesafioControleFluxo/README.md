@@ -1,6 +1,6 @@
 ## Getting Started
 
-O projeto se trata de uma organização inicial do curso de java básico da DIO. Apenas o aprendizado sobre estruturação e sintaxe da linguagem java.
+O projeto se trata de uma organização inicial do curso de java básico da DIO. Aprendizado sobre estruturas de fluxo e exceções da linguagem java.
 
 ## Tecnologias Utilizadas
  - `JAVA`
